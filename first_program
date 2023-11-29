@@ -7,6 +7,10 @@ int main(){
    int a=4 , b =5;
    int res = a+b;
    cout<<res<<endl;
+   
+   int c=5, d = 3;
+   int res2 = c-d;
+   cout<<res2<<endl;
 
    return 0;
 }
