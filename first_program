@@ -7,6 +7,6 @@ int main(){
    int c=5, d = 3;
    int res2 = c-d;
    cout<<res2<<endl;
-
+ 
    return 0;
 }
