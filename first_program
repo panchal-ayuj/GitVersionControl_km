@@ -1,12 +1,16 @@
-Here is the code of adding two numbers
+Here is the code of adding two numbers as well as substracting numbers
 
 #include<bits/stdc++.h>
 using namespace std;
 
 int main(){
    int a=4 , b =5;
-   int res = a+b;
-   cout<<res<<endl;
+   //int res = a+b;
+  // cout<<res<<endl;
+ int res = a-b;
+cout<<res<<endl;
 
    return 0;
 }
+
+
